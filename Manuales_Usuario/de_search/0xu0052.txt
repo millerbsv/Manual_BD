@@ -1,0 +1,3 @@
+RAÍCES; 8;
+RAÍZ; 8;
+RECOMENDABLE; 4;

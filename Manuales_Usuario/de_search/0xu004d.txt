@@ -1,0 +1,5 @@
+MANUAL; 1;
+MISMO; 8;
+MODO; 8;
+MUSEO; 4,1,3;
+MUSEOS; 4,3;

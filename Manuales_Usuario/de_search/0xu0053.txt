@@ -1,0 +1,6 @@
+SE; 8,3,2;
+SEA; 4;
+SEGUNDA; 2;
+SER; 8;
+SON; 8,2;
+SU; 8;

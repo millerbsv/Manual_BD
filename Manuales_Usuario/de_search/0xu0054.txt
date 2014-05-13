@@ -1,0 +1,6 @@
+TAREAS; 7;
+TEMA; 7;
+TENER; 8,3;
+TESAURO; 8;
+TIENE; 8;
+TODA; 4;
