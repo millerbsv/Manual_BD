@@ -1,0 +1,93 @@
+1
+ Museo de America
+ museo_de_america.htm
+2
+ Insertar
+ insertar.htm
+3
+ Elementos
+ elementos_1.htm
+4
+ Museo
+ museo_1.htm
+5
+ Cultura
+ cultura_1.htm
+6
+ Colección
+ coleccion_1.htm
+7
+ Objetos
+ objetos_1.htm
+8
+ Iconografía
+ iconografia_1.htm
+9
+ Iconografía principal
+ iconografia_principal_1.htm
+10
+ Elementos iconográficos
+ elementos_iconograficos_1.htm
+11
+ Campo
+ campo_1.htm
+12
+ Búsqueda general y especializada
+ busqueda_general_y_especializada.htm
+13
+ Ficha técnica
+ ficha_tecnica.htm
+14
+ Archivos adjuntos
+ archivos_adjuntos.htm
+15
+ Usuario
+ usuario.htm
+16
+ Crear
+ crear_1.htm
+17
+ Modificar
+ modificar_1.htm
+18
+ Roles
+ roles.htm
+19
+ Crear
+ crear_2.htm
+20
+ Modificar
+ modificar_2.htm
+21
+ Salir
+ salir.htm
+22
+ Modificar
+ modificar_3.htm
+23
+ Elementos
+ elementos_2.htm
+24
+ Museo
+ museo_2.htm
+25
+ Cultura
+ cultura_2.htm
+26
+ Colección
+ coleccion_2.htm
+27
+ Objetos
+ objetos_2.htm
+28
+ Iconografía
+ iconografia_2.htm
+29
+ Iconografía principal
+ iconografia_principal_2.htm
+30
+ Elementos iconográficos
+ elementos_iconograficos_2.htm
+31
+ Campo
+ campo_2.htm
