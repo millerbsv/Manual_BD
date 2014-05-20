@@ -28,7 +28,6 @@ de_search\0xu0041.txt
 de_search\0xu0035.txt
 de_search\0xu0032.txt
 de_search\0xu0031.txt
-de_search
 js\drexplain.data.index.js
 de_style.css
 css\printed.css
@@ -48,13 +47,6 @@ i\blocks\search\loading.gif
 i\blocks\interface-icons\interface-icons-sprite.png
 i\blocks\interface-icons\interface-icons-sprite-8.png
 i\null.gif
-i\blocks\work-zone
-i\blocks\tree
-i\blocks\splitter
-i\blocks\search
-i\blocks\interface-icons
-i\blocks
-i
 drex_campo_2_custom_2.png
 drex_campo_2_custom.png
 campo_2.htm
@@ -129,7 +121,7 @@ drex_museo_1_custom.png
 museo_1.htm
 elementos_1.htm
 insertar.htm
-css
-js
+drex_footer_custom.png
+drex_header_custom.png
 museo_de_america.htm
 drex_file_list
