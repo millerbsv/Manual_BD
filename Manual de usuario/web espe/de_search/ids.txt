@@ -1,0 +1,15 @@
+1
+ Manual técnico
+ manual_tecnico.htm
+2
+ Instalación
+ instalacion.htm
+3
+ Servidor remoto
+ servidor_remoto.htm
+4
+ Servidor local
+ servidor_local.htm
+5
+ Especificaciones
+ especificaciones.htm

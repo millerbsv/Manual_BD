@@ -1,0 +1,4 @@
+RAR; 2;
+RAÍZ; 3;
+REALIZADA; 5;
+REMOTO; 3;

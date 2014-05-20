@@ -1,0 +1,8 @@
+LA; 4,3,2,5,1;
+LAS; 4;
+LLAMADO; 2;
+LOCAL; 4;
+LOCALIZADO; 4;
+LOS; 3,2;
+LUEGO; 4,3;
+LUGAR; 3;
