@@ -11,5 +11,41 @@
  Servidor local
  servidor_local.htm
 5
+ Base de datos
+ base_de_datos.htm
+6
  Especificaciones
  especificaciones.htm
+7
+ Estructura aplicación web
+ estructura_aplicacion_web.htm
+8
+ Archivos
+ archivos.htm
+9
+ Paginas
+ paginas.htm
+10
+ controladores
+ controladores.htm
+11
+ css
+ css.htm
+12
+ javascript
+ javascript.htm
+13
+ modelos
+ modelos.htm
+14
+ validar
+ validar.htm
+15
+ vistas
+ vistas.htm
+16
+ Plugin
+ plugin.htm
+17
+ Temas
+ temas.htm

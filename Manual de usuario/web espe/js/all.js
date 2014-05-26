@@ -1287,10 +1287,10 @@ InputSync.prototype ={
 DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_menu' );
 DR_EXPLAIN.data_menu = {
 	// menu
-	DREX_NODE_NAMES: ["Manual técnico","Instalación","Especificaciones","Servidor remoto","Servidor local"],
-	DREX_NODE_LINKS: ["manual_tecnico.htm","instalacion.htm","especificaciones.htm","servidor_remoto.htm","servidor_local.htm"],
-	DREX_NODE_CHILD_START: [1,3,5,5,5],
-	DREX_NODE_CHILD_END: [3,5,5,5,5],
+	DREX_NODE_NAMES: ["Manual técnico","Instalación","Especificaciones","Estructura aplicación web","Servidor remoto","Servidor local","Base de datos","Archivos","Paginas","Plugin","Temas","controladores","css","javascript","modelos","validar","vistas"],
+	DREX_NODE_LINKS: ["manual_tecnico.htm","instalacion.htm","especificaciones.htm","estructura_aplicacion_web.htm","servidor_remoto.htm","servidor_local.htm","base_de_datos.htm","archivos.htm","paginas.htm","plugin.htm","temas.htm","controladores.htm","css.htm","javascript.htm","modelos.htm","validar.htm","vistas.htm"],
+	DREX_NODE_CHILD_START: [1,4,7,7,11,11,11,11,11,17,17,17,17,17,17,17,17],
+	DREX_NODE_CHILD_END: [4,7,7,11,11,11,11,11,17,17,17,17,17,17,17,17,17],
 	DREX_MENU_TYPE: 1,
 	DREX_HAS_ROOT_NODE: 1};
 /*js/drexplain/drexplain.data.index.js*/

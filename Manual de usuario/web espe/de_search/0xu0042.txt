@@ -1,2 +1,2 @@
-BASE; 4,3,2;
-BASES; 3;
+BASE; 5,4,3,2;
+BASES; 5,3;
